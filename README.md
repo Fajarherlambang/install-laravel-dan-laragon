@@ -47,6 +47,7 @@ Dokumen ini menjelaskan langkah-langkah untuk menginstal LARAGON, Composer, dan 
 
    ```bash
    composer -V
+   ```
 
    ![Composer CMD](./images/composer-version.png)
 
