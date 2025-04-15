@@ -103,7 +103,7 @@ Dokumen ini menjelaskan langkah-langkah untuk menginstal LARAGON, Composer, dan 
    ```dotenv
    DB_CONNECTION=mysql
    DB_HOST=127.0.0.1
-   DB_PORT=8111
+   DB_PORT=3306
    DB_DATABASE=laravel_tutor
    DB_USERNAME=root
    DB_PASSWORD=
